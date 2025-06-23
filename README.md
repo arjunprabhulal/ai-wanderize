@@ -240,7 +240,7 @@ Tailored recommendations based on your preferences, budget, travel style, and in
 ### 🔄 **Production Ready**
 Enterprise-grade deployment with authentication, monitoring, and scalability built-in.
 
-## 🏆 Hackathon Category
+## Hackathon Category
 
 **Category**: Automation of Complex Processes - Multi-Agent Workflows
 
