@@ -1,4 +1,4 @@
-# 🌍 AI Wanderize
+# AI Wanderize
 
 **Intelligent Multi-Agent Travel Planning System**
 
