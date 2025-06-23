@@ -1,4 +1,4 @@
-# AI Wanderize
+# AI Wanderize - https://devpost.com/software/ai-wanderize-intelligent-travel-companion
 
 **Intelligent Multi-Agent Travel Planning System**
 
@@ -240,7 +240,7 @@ Tailored recommendations based on your preferences, budget, travel style, and in
 ### 🔄 **Production Ready**
 Enterprise-grade deployment with authentication, monitoring, and scalability built-in.
 
-## Hackathon Category
+## Hackathon Category - https://devpost.com/software/ai-wanderize-intelligent-travel-companion
 
 **Category**: Automation of Complex Processes - Multi-Agent Workflows
 
